@@ -1,0 +1,50 @@
+body{
+  margin: 0px;
+  /*background-position: top;
+  background-repeat: no-repeat;*/
+  background-size: cover;
+}
+
+
+.name{
+    background: linear-gradient(45deg, rgb(32, 114, 214) 0%, rgb(78, 140, 213) 100%);
+    left: 0;
+    position: relative;
+    right: 0;
+    top: 0;
+    height: 2em;
+    padding-left: 10px;
+    padding-bottom: 5vh;
+}
+
+.icono{
+	height: 60px;
+}
+
+/*****************************************/
+
+.Audio-1{
+	margin: 0 auto;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 30vh;
+	background-color: #00dbff;
+	border-radius: 12px;
+}
+
+button{
+	border: transparent;
+	background: transparent;
+}
+
+.Musi-Off{
+	width: 8vw;
+	height: 15vh;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	margin: 0 auto;
+	top: 40vh;	
+}
+
