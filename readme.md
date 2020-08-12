@@ -9,7 +9,7 @@ Hace poco cree un fondo animado con música y lo publiqué; pero como no lo espl
 
 ### Ejemplo I.
 
-Insertar un audio en tu documento HTML donde podamos apreciar el reproductor de audio con sus botones de pausa, play, etc. 
+Insertar un audio en tu documento HTML donde podemos apreciar el reproductor de audio con sus botones de pausa, play, etc. 
 
 
 ### Ejemplo II.
